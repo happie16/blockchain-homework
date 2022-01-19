@@ -1,5 +1,8 @@
 # Case Study - Fintelics Technology Inc.
 
+![socialCover](https://user-images.githubusercontent.com/87047448/150060004-16c85cde-47f6-495c-9f61-f4e36e366ab6.jpg)
+
+
 ## What is it
 
 Fintelics Technology Inc., a cloud consulting &amp; SI company, is in Toronto, Canada. They specialize in cloud consulting; SI, blockchain, Artificial Intelligence, custom software development, and more and were launched in 2017.
