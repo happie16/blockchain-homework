@@ -1,0 +1,28 @@
+=============== Jan 18, 2022 (EST) ===============
+20:40:52.437527 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:40:52.481096 db@open opening
+20:40:52.482459 version@stat F·[] S·0B[] Sc·[]
+20:40:52.499876 db@janitor F·2 G·0
+20:40:52.500007 db@open done T·18.782825ms
+20:40:52.505618 db@close closing
+20:40:52.505772 db@close done T·152.983µs
+=============== Jan 18, 2022 (EST) ===============
+20:49:07.504283 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:49:07.505191 version@stat F·[] S·0B[] Sc·[]
+20:49:07.505237 db@open opening
+20:49:07.505359 journal@recovery F·1
+20:49:07.513553 journal@recovery recovering @1
+20:49:07.530558 memdb@flush created L0@2 N·15 S·1020B "=\xe4\x9a..\xaa\xbdW,v5":"\xb3P\xdc..\x90-K,v4"
+20:49:07.562473 version@stat F·[1] S·1020B[1020B] Sc·[0.25]
+20:49:07.649211 db@janitor F·3 G·0
+20:49:07.649298 db@open done T·144.015257ms
+=============== Jan 18, 2022 (EST) ===============
+21:19:09.541719 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:19:09.542792 version@stat F·[1] S·1020B[1020B] Sc·[0.25]
+21:19:09.542849 db@open opening
+21:19:09.543002 journal@recovery F·1
+21:19:09.550380 journal@recovery recovering @3
+21:19:09.570896 memdb@flush created L0@5 N·3 S·497B "Dat..ion,v17":"cli..{b\x10,v19"
+21:19:09.589146 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+21:19:09.660391 db@janitor F·4 G·0
+21:19:09.660441 db@open done T·117.567782ms
